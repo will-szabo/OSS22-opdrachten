@@ -1,1 +1,1 @@
-
+defgateway = $(ip route)
